@@ -1,2 +1,6 @@
 r20200901
 -- initial project commit
+-- added navigation library
+-- added material design library
+-- enabled databinding support
+-- initial login screen
